@@ -32,7 +32,7 @@ Key Findings:
 
 - The top 10 customers spent between $3.82K and $2.55K, with 2 from the US.
 - Central US, Western Europe, and Central America dominate in profit.
-- US leads profit in all categories except Home and Accessories, where Mexico dominates.
+- The US leads profit in all categories except Home and Accessories, where Mexico dominates.
 - A correlation exists between low discounts (0%-20%) and higher profits.
 
 On my market dashboard, I focused on:
@@ -51,4 +51,4 @@ Key Findings:
 - US customers consistently spend the most.
 - Profit trends slowed or decreased in 2022, despite sales growth.
 
-A big thank you to @FP20Analytics, Federico Pastor, and @ZoomCharts for the fantastic opportunity, insightful webinar, and powerful visualization tools that helped make this report more interactive and engaging!
+A big thank you to FP20Analytics, Federico Pastor, and ZoomCharts for the fantastic opportunity, insightful webinar, and powerful visualization tools that helped make this report more interactive and engaging!
